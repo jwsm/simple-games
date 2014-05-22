@@ -15,3 +15,6 @@ Students don't have to understand loops or arrays. When checking for a win, each
 
 ## Template
 To teach students to program the game, have them download the `template` directory to their computer. Walk them through adding all of the necessary code to make the game work. They can also customize the CSS using their own colors, fonts, etc.
+
+## Demo
+You can try the game [here](http://jwsm.github.io/simple-games/tic-tac-toe/).
